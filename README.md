@@ -11,6 +11,7 @@ Visual studio code
 Xampp
 
 Postman
+http://localhost:8080
 http://localhost:8080/api/bicycles/
 
 Da un ejemplo
