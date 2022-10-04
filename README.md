@@ -10,6 +10,9 @@ Pre-requisitos 📋
 Visual studio code
 Xampp
 
+Postman
+http://localhost:8080/api/bicycles/
+
 Da un ejemplo
 Instalación 🔧
 Abrir proyecto desde una consola, como puede ser desde la consola de visual studio code.
